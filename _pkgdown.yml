@@ -1,0 +1,10 @@
+url: https://ikarus702.github.io/SSKUMED-Shortcourse/
+template:
+  bootstrap: 5
+
+reference:
+  - title: Functions
+    contents:
+      - bar
+      - foo
+      - hello
