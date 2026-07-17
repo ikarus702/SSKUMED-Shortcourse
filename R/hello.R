@@ -6,5 +6,5 @@
 #' @examples
 #'  hello()
 hello <- function() {
-  print("Hello, world!")
+  print("Hello, Seoul!")
 }
