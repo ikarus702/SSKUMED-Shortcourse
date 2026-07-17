@@ -1,0 +1,23 @@
+# SSKUMED-Shortcourse
+
+This is a SSKUMED shortcourse for version control and collaboration with
+Github
+
+[![R-CMD-check](https://github.com/ikarus702/SSKUMED-Shortcourse/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ikarus702/SSKUMED-Shortcourse/actions/workflows/R-CMD-check.yaml)
+
+# Package index
+
+## Functions
+
+- [`bar()`](https://ikarus702.github.io/SSKUMED-Shortcourse/reference/bar.md)
+  : Bar function
+- [`foo()`](https://ikarus702.github.io/SSKUMED-Shortcourse/reference/foo.md)
+  : Foo Function to Create a Fancy List
+- [`hello()`](https://ikarus702.github.io/SSKUMED-Shortcourse/reference/hello.md)
+  : Hello Function
+
+# Articles
+
+### All vignettes
+
+- [Intro](https://ikarus702.github.io/SSKUMED-Shortcourse/articles/Intro.md):
