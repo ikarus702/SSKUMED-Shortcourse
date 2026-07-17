@@ -1,0 +1,24 @@
+Package: seoul
+Type: Package
+Title: Example Package for Seoul Short Course
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Jun", "Kim",
+      email = "ikarus702@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: This is a cool package written by Jun Kim.
+License: GPL (>= 3)
+Imports:
+  dplyr,
+  checkmate
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.0.0
+VignetteBuilder: knitr
+Suggests: 
+    knitr,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
